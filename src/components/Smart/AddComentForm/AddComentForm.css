@@ -1,0 +1,18 @@
+.commentsForm {
+    display: flex;
+}
+.commentsForm__avatar {
+    width: 3.2rem;
+    height: 3.2rem;
+    flex: 0 0 3.2rem;
+    background-color: #e6e6e6;
+    margin-right: 0.8rem;
+}
+.commentsForm .form-group {
+    flex-grow: 1;
+    margin-bottom: 0;
+}
+.commentsForm .form-control {
+    font-size: 0.8rem;
+    resize: none;
+}

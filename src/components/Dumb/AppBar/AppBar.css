@@ -1,0 +1,16 @@
+
+.appBar {
+    background-color: #2B2F3E;
+    color: #808080;
+    min-height: 100vh;
+    padding: 1rem 1.6rem;
+    flex: 0 0 21%;
+}
+
+.appBar h1 {
+    font-weight: 300;
+    text-transform: uppercase;
+    font-size: 2.2rem;
+    color: #fff;
+}
+

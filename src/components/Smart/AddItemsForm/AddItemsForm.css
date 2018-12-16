@@ -1,0 +1,9 @@
+.addItemsForm .form-group {
+    flex-grow: 1;
+    margin-right: 1rem;
+}
+
+.addItemsForm .btn {
+    padding-right: 2rem;
+    padding-left: 2rem;
+}
